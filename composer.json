@@ -2,6 +2,17 @@
     "name": "fullscreen.pt/savannah",
     "type": "project",
     "license": "proprietary",
+    "authors": [
+        {
+            "name": "Full Screen - Publicidade e Produção de Software Lda",
+            "email": "geral@fullscreen.pt",
+            "homepage": "https://www.fullscreen.pt",
+        },
+        {
+            "name": "Vítor Reis",
+            "email": "vitor.reis@fullscreen.pt"
+        }
+    ],
     "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {
