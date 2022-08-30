@@ -13,6 +13,8 @@
             "email": "vitor.reis@fullscreen.pt"
         }
     ],
+    "minimum-stability": "stable",
+    "prefer-stable": true,
     "require": {
         "php": ">=8.1",
         "ext-ctype": "*",
